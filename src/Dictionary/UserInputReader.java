@@ -1,4 +1,4 @@
-package four;
+package Dictionary;
 
 import java.util.Scanner;
 
