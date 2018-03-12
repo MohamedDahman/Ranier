@@ -6,7 +6,9 @@ class DayDiffCalculatorTest {
     void calculate() {
         int days = new DayDiffCalculator().calculate("2017-01-01", "2017-01-03");
 
-        //assertEquals(2,days);
+        assertEquals(2,days);
+        
+        
 
     }
 
